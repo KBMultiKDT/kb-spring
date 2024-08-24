@@ -1,0 +1,21 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- 빈 정의 -->
+    <bean id="window" class="com.multi.spring2_2.xml_test.Window"/>
+
+    <bean id="building" class="com.multi.spring2_2.xml_test.Building">
+        <property name="window" ref="window"/>
+        <!--setEngine()-->
+        <!-- <constructor-arg></constructor-arg> -->
+    </bean>
+
+</beans>
+
+
+
+
+
+
