@@ -31,3 +31,11 @@ https://drive.google.com/file/d/1YMZ8CDHoToru3ksd3N5ZZDXyeq4TRB43/view?usp=drive
 ## JWT(FOLDER) ##
 https://drive.google.com/drive/folders/1iaPCENpO8OjMyrs8RjAXbCc56NFRWqW-?usp=drive_link
 
+## =======================================
+
+## OpenAPI(ZIP) ##
+https://drive.google.com/file/d/1nDMHVL-IoVQy2UuNfGTpjg7c6dcHdap9/view?usp=drive_link
+
+## OpenAPI(FOLDER) ##
+https://drive.google.com/drive/folders/1TgWzw0Yb-WSZIBzRps16ZnFtaBWQgGaJ?usp=sharing
+
